@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="616c4817-069c-4f60-a891-530a243d8a6a" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LearnVuejs05-v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/components/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/components/HomeMessage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/components/HomeNews.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/components/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/components/User.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learnvuerouter/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/assets/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/assets/img/tabbar/EO5zorN6pg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/assets/img/tabbar/t01aff729fea4a7cc85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/components/tabbar/TabBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/components/tabbar/TabBarItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/router/Payment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-tabbar/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/assets/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/assets/img/tabbar/qwe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/assets/img/tabbar/t01aff729fea4a7cc85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/components/tabbar/TabBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/components/tabbar/TabBarItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/views/cart/cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/views/category/category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/views/home/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/src/views/profile/profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-tabbar/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-箭头函数/01-箭头函数的基本使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-箭头函数/02-箭头函数参数和返回值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-箭头函数/03-箭头函数中的this的使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/src/api/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jmHRX7Js2QlODGrbFi0x8SMsM1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="E:\webstrom\WebStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\解会敏\自己学习的代码\coder\LearnVuejs05-v2\02-tabbar\src\assets\img\tabbar" />
+      <recent name="F:\解会敏\自己学习的代码\coder\LearnVuejs05-v2\ceshi\node_modules" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\解会敏\自己学习的代码\coder\LearnVuejs05-v2\03-tabbar\src\assets\img\tabbar" />
+      <recent name="F:\解会敏\自己学习的代码\coder\LearnVuejs05-v2" />
+      <recent name="F:\解会敏\自己学习的代码\coder\LearnVuejs05-v2\02-tabbar\src\router" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="616c4817-069c-4f60-a891-530a243d8a6a" name="默认更改列表" comment="" />
+      <created>1604402338723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604402338723</updated>
+      <workItem from="1604402339857" duration="603000" />
+      <workItem from="1604407527296" duration="1884000" />
+      <workItem from="1604449532629" duration="23831000" />
+      <workItem from="1604536616627" duration="25388000" />
+      <workItem from="1604459612481" duration="12699000" />
+      <workItem from="1604623355907" duration="5121000" />
+      <workItem from="1604629218932" duration="14024000" />
+      <workItem from="1604647521956" duration="4398000" />
+      <workItem from="1604652095244" duration="298000" />
+      <workItem from="1604652558161" duration="8000" />
+      <workItem from="1604652586972" duration="1471000" />
+      <workItem from="1604654089598" duration="238000" />
+      <workItem from="1604881903833" duration="1655000" />
+      <workItem from="1604883604824" duration="1786000" />
+      <workItem from="1604885420969" duration="1790000" />
+      <workItem from="1604887412367" duration="1791000" />
+      <workItem from="1604894708314" duration="600000" />
+      <workItem from="1604895878135" duration="60000" />
+      <workItem from="1604896055667" duration="8000" />
+      <workItem from="1604896221015" duration="125000" />
+      <workItem from="1604896514199" duration="13000" />
+      <workItem from="1604896757942" duration="69000" />
+      <workItem from="1604896851776" duration="69000" />
+      <workItem from="1604896954894" duration="8000" />
+      <workItem from="1604897119869" duration="1113000" />
+      <workItem from="1604898268794" duration="27000" />
+      <workItem from="1604899951721" duration="31000" />
+      <workItem from="1604900010576" duration="35000" />
+      <workItem from="1604901627652" duration="52000" />
+      <workItem from="1604902678138" duration="1387000" />
+      <workItem from="1604904296603" duration="195000" />
+      <workItem from="1604904511828" duration="905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="879" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604649225459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="879" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604649225459" />
+    <state x="709" y="52" width="780" height="762" key="CommitChangelistDialog2" timestamp="1604630328634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="709" y="52" width="780" height="762" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604630328634" />
+    <state x="882" y="151" key="FileChooserDialogImpl" timestamp="1604903352408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="882" y="151" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604903352408" />
+    <state x="999" y="312" key="Github.ShareDialog" timestamp="1604647687354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="999" y="312" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1604647687354" />
+    <state x="919" y="119" key="Github.UntrackedFilesDialog" timestamp="1604629938164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="919" y="119" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604629938164" />
+    <state x="374" y="65" width="954" height="707" key="SettingsEditor" timestamp="1604903983385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="374" y="65" width="954" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604903983385" />
+    <state x="825" y="188" key="run.anything.popup" timestamp="1604565751248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="825" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604565751248" />
+    <state x="829" y="140" width="675" height="504" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1604629125172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="829" y="140" width="675" height="504" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1536.824@0.0.1536.824" timestamp="1604629125172" />
+  </component>
+</project>
